@@ -98,6 +98,7 @@ def quicken_regeneration():
 root = tk.Tk()
 root.title("Game")
 root.geometry('333x645')
+root.resizable(False, False)
 
 # Create the main frame for the game
 gameFrame = tk.Frame(root)
