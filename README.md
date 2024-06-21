@@ -5,7 +5,11 @@ An open-source Python GUI application built using the Tkinter library. It offers
 <img src="screenshots/game.png" alt="Game" width="300"/>
 
 ## Features
-TBD
+- Incremental tapping gameplay for earning coins
+- Energy system with regeneration and upgrade options
+- Upgrades to increase tap earnings, energy limit, and regeneration speed
+- Cost-based mechanics for upgrades and energy refill
+- User-friendly GUI with real-time updates and threaded energy regeneration
 
 ## Dependencies
 * time
