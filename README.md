@@ -11,11 +11,6 @@ An open-source Python GUI application built using the Tkinter library. It offers
 - Cost-based mechanics for upgrades and energy refill
 - User-friendly GUI with real-time updates and threaded energy regeneration
 
-## Dependencies
-* time
-* threading
-* tkinter
-
 ## Installation
 **1. Clone the repository**
 ```bash
