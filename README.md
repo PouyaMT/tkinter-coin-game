@@ -2,7 +2,7 @@
 An open-source Python GUI application built using the Tkinter library. It offers players a clicker game in which they can earn coins by tapping and strategically invest them in various upgrades to boost their earnings.
 
 ## Screenshots
-<img src="screenshots/game.png" alt="Game" width="300"/>
+<img src="screenshots/game.png" alt="Game" width="250"/>
 
 ## Features
 - Incremental tapping gameplay for earning coins
